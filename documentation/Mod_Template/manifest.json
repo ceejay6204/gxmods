@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "Punkalopi",
+    "description": "Mod about our red-bull fueled rabbit",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "ceejay6204"
     },
     "icons":
     {
@@ -15,13 +15,6 @@
         "license": "license.txt",
         "payload":
         {
-            "background_music":
-            [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
-            ],
             "browser_sounds":
             {
                 "CLICK":
