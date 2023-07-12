@@ -155,14 +155,13 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
+                    "image": "PUNKABACK.PNG",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
                 "light":
                 {
-                    "image": "wallpaper/video.webm",
-                    "first_frame": "wallpaper/first_frame.jpeg",
+                    "image": "PUNKABACK.PNG",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
